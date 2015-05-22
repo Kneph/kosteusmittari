@@ -8,7 +8,7 @@
   Työvaiheet:
   - kytketään Octopus sensori Analog 1 pinniin.
   - kytketään ledit pinneihin: sininen 3, vihreä 4, keltainen 5
-  - virtalähde?
+  - virtalähteenä toimii 9v patteri
   - kotelointi?
 
   16.5.2015
